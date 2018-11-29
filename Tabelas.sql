@@ -62,6 +62,7 @@ create table tiposDeQuarto(
 ID_tipo int not null AUTO_INCREMENT,
 tipo varchar(30) not null,
 descricao varchar(500) not null,
+quantidadeDeQuartos INT(100),
 precoDiaria numeric(9,2) not null,
 primary key(ID_tipo)
 );
@@ -97,17 +98,3 @@ primary key(ID_acompanhante),
 foreign key(ID_h) references hospede(ID_h),
 foreign key(ID_reserva) references reserva(ID_reserva)
 );
-
-
-
-
-
-
-
-
-
-
-
-
-
-
