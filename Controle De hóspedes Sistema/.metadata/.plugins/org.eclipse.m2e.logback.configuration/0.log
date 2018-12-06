@@ -1,0 +1,32 @@
+2018-12-06 14:29:42,710 [Worker-7] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-12-06 14:38:53,193 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\pom.xml
+2018-12-06 14:38:56,567 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HotelBKM:Conexao:0.0.1-SNAPSHOT @ C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\pom.xml.
+2018-12-06 14:38:57,456 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Conexao/src/main/java
+2018-12-06 14:38:57,462 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Conexao/src/test/java
+2018-12-06 14:38:57,514 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2018-12-06 14:38:57,902 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:38:57,903 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\main\resources
+2018-12-06 14:38:57,904 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:38:57,904 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\test\resources
+2018-12-06 14:39:46,011 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:39:46,012 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\main\resources
+2018-12-06 14:39:46,014 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:39:46,014 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\test\resources
+2018-12-06 14:42:37,408 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HotelBKM:Conexao:0.0.1-SNAPSHOT @ C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\pom.xml.
+2018-12-06 14:42:38,514 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.pom
+2018-12-06 14:42:38,663 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.pom
+2018-12-06 14:42:38,803 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar
+2018-12-06 14:42:59,627 [Worker-19] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar
+2018-12-06 14:43:00,014 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:43:00,014 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\main\resources
+2018-12-06 14:43:00,016 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:43:00,016 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\test\resources
+2018-12-06 14:43:00,030 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-12-06 14:43:00,303 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: HotelBKM:Conexao:0.0.1-SNAPSHOT @ C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\pom.xml.
+2018-12-06 14:43:00,396 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Conexao/src/main/java
+2018-12-06 14:43:00,397 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Conexao/src/test/java
+2018-12-06 14:43:00,444 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-12-06 14:43:00,655 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:43:00,655 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\main\resources
+2018-12-06 14:43:00,657 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-12-06 14:43:00,657 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\20171TIINF0031\Desktop\Controle De hópedes\Controle De hóspedes Sistema\Conexao\src\test\resources
