@@ -57,7 +57,7 @@ foreign key(ID_endereco) references endereco(ID_endereco)
 create table tiposDeQuarto(
 ID_tipo int not null AUTO_INCREMENT,
 tipo varchar(30) not null,
-descricao varchar(500) not null,
+descricao varchar(5000) not null,
 quantidadeDeQuartos INT(100),
 precoDiaria numeric(9,2) not null,
 primary key(ID_tipo)
