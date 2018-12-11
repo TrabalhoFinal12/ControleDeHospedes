@@ -33,7 +33,7 @@ create table hospede(
 ID_h int not null AUTO_INCREMENT,
 ID_endereco int not null,
 nome varchar(100) not null,
-CPF varchar(15) not null,
+CPF varchar(11) not null,
 dataDeNasc Date not null,
 telefone varchar(30) not null,
 email varchar(200),
@@ -45,11 +45,11 @@ create table funcionario(
 ID_f int not null AUTO_INCREMENT,
 ID_endereco int not null,
 nome varchar(100) not null,
-CPF varchar(15) not null,
+CPF varchar(11) not null,
 dataDeNasc Date not null,
 telefone varchar(30) not null,
 email varchar(200) not null,
-senha int not null,
+senha int(8) not null,
 primary key(ID_f),
 foreign key(ID_endereco) references endereco(ID_endereco)
 );
