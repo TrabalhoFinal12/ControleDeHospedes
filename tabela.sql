@@ -59,7 +59,8 @@ ID_tipo int not null AUTO_INCREMENT,
 tipo varchar(30) not null,
 descricao varchar(5000) not null,
 quantidadeDeQuartos INT(100),
-precoDiaria numeric(9,2) not null,
+precoDiariaSimples numeric(9,2) not null,
+precoDiariaLuxuoso numeric(9,2) not null,
 primary key(ID_tipo)
 );
 
