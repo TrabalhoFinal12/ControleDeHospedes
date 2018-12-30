@@ -58,11 +58,10 @@ create table tiposDeQuarto(
 ID_tipo int not null AUTO_INCREMENT,
 tipo varchar(30) not null,
 descricao varchar(5000) not null,
-quantidadeDeQuartos INT(100),
 precoDiariaSimples numeric(9,2) not null,
 precoDiariaLuxuoso numeric(9,2) not null,
-quantidadeDeQuartoLuxuoso int,
-quantidadeDeQuartoSimples int,
+quantidadeDeQuartoLuxuoso int(100),
+quantidadeDeQuartoSimples int(100),
 primary key(ID_tipo)
 );
 
