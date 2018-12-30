@@ -61,6 +61,8 @@ descricao varchar(5000) not null,
 quantidadeDeQuartos INT(100),
 precoDiariaSimples numeric(9,2) not null,
 precoDiariaLuxuoso numeric(9,2) not null,
+quantidadeDeQuartoLuxuoso int,
+quantidadeDeQuartoSimples int,
 primary key(ID_tipo)
 );
 
